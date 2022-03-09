@@ -10,6 +10,10 @@ public class GroupingDemo {
                 new MovieWithGenre("b",20,Genre.ACTION),
                 new MovieWithGenre("c",2,Genre.ACTION)
         );
-        System.out.println(movies.stream().collect(Collectors.groupingBy(MovieWithGenre::getGenre)));
+        System.out.println(movies.stream().collect(Collectors
+                .groupingBy(MovieWithGenre::getGenre,
+                        Collectors.mapping(
+                                MovieWithGenre::getTitle,Collectors.joining(", ")
+                        ))));
     }
 }
