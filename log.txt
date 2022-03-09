@@ -1,0 +1,16 @@
+Mar 08, 2022 12:23:53 PM com.codewithmurali.FileClass main
+INFO: we have set a logger
+Mar 08, 2022 12:37:40 PM com.codewithmurali.FileClass main
+INFO: we have set a logger info
+Mar 08, 2022 12:37:41 PM com.codewithmurali.FileClass main
+FINEST: hello
+Mar 08, 2022 12:37:41 PM com.codewithmurali.FileClass main
+FINEST: here is the stack trace
+Mar 08, 2022 12:37:41 PM com.codewithmurali.FileClass main
+SEVERE: null
+Mar 08, 2022 12:37:59 PM com.codewithmurali.FileClass main
+INFO: we have set a logger info
+Mar 08, 2022 12:37:59 PM com.codewithmurali.FileClass main
+FINEST: hello
+Mar 08, 2022 12:37:59 PM com.codewithmurali.FileClass main
+FINEST: here is the stack trace
