@@ -31,6 +31,10 @@ public class Assignment04 {
             kycEndDate = signUpCalendar.getTime();
             signUpCalendar.add(Calendar.DATE,-60);
             kycStartDate = signUpCalendar.getTime();
+            if(kycStartDate.compareTo(currentDate)>0){
+                System.out.println("No Range");
+                return ;
+            }
             if(kycEndDate.compareTo(currentDate)>0){
                 kycEndDate = currentDate;
             }
