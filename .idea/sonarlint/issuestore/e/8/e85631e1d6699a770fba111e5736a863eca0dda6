@@ -1,0 +1,9 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆÔ§
+S	java:S106"9Replace this use of System.out or System.err by a logger.(û‚ôûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºÖºªúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ö›Æïıÿÿÿÿ
+O
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”

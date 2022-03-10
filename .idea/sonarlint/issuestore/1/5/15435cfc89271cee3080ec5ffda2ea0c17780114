@@ -1,0 +1,12 @@
+
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…­êº8îäªëö/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥á‰óûÿÿÿÿ
+W
+java:S1075%"ARefactor your code to get this URI from a customizable parameter.(³»·ñ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Šà¹¾
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ÈüÂÀüÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(î‘¤Îøÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ß°·€ıÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(î‘¤Îøÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(åÎïË

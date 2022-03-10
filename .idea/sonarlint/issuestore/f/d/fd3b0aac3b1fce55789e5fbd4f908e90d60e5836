@@ -1,0 +1,12 @@
+
+V
+java:S1612"9Replace this lambda with method reference 'Math::random'.(ÛõëØ8®µüäö/
+L
+java:S1611"/Remove the parentheses around the "n" parameter(ÛõëØ8¯µüäö/
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ÛõëØ8¯µüäö/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÛõëØ8°µüäö/
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(øÜªä8±µüäö/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(øÜªä8²µüäö/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÊ²’üÿÿÿÿ8³µüäö/

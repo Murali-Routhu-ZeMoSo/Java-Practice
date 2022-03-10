@@ -1,0 +1,8 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ö¡¹ê8ðÎ°Ñö/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±‚·ëøÿÿÿÿ8ïˆ±Ñö/
+J
+java:S1481"(Remove this unused "id1" local variable.(í¤‰äÿÿÿÿÿ8—ÜÇÑö/
+N
+java:S1481",Remove this unused "status1" local variable.(Ãéç„þÿÿÿÿ8˜ÜÇÑö/
+]	java:S125"<This block of commented-out lines of code should be removed.(×ñÖ‰ýÿÿÿÿ8˜ÜÇÑö/

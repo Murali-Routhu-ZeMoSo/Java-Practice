@@ -1,0 +1,16 @@
+
+R
+java:S1612"<Replace this lambda with method reference 'Movie::getTitle'.(ôıÅ¾
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ôıÅ¾
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ôıÅ¾
+V	java:S125"<This block of commented-out lines of code should be removed.(æÆ«†ûÿÿÿÿ
+a
+java:S1612"?Replace this lambda with method reference 'Collection::stream'.(ßì¸Õûÿÿÿÿ8¤¼åö/
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ßì¸Õûÿÿÿÿ8¤¼åö/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ßì¸Õûÿÿÿÿ8¥¼åö/
+M
+java:S1128"0Remove this unused import 'java.io.PrintStream'.(×ê’8–‹ºåö/
+X
+java:S1128"6Remove this unused import 'java.sql.ClientInfoStatus'.(¥¥éÀüÿÿÿÿ8–‹ºåö/
